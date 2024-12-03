@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733213822 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\tubesstdmllkel15\car_rental.cpp
+	"car_rental.h"
+	<iostream>
+
+1733213436 c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\tubesstdmllkel15\car_rental.h
+	<string>
+
+1733213418 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\tubesstdmllkel15\main.cpp
+	<iostream>
+	"car_rental.h"
+
